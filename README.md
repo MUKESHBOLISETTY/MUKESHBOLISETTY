@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUKESHBOLISETTY&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbolisetty" /> </p>
     
     
-- 🔭 I’m currently working on **Chat Web App**
+- 🔭 I’m currently working on **Events Management Web App**
     
 - 🌱 I’m currently learning **NextJs**
     
@@ -15,7 +15,6 @@
     
 - 📫 How to reach me **mukeshbolisetty09@gmail.com**
     
-- ⚡ Fun fact **I am Funny**
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
