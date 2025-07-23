@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUKESHBOLISETTY&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbolisetty" /> </p>
     
     
-- 🔭 I’m currently working on **Events Management Web App**
+- 🔭 I’m currently working on **Food Delivery Web App**
     
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Mern Stack**
     
 - 💬 Ask me about **Web Development**
     
