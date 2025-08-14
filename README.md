@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUKESHBOLISETTY&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbolisetty" /> </p>
     
     
-- 🔭 I’m currently working on **Food Delivery Web App**
+- 🔭 I’m currently working on **Private University Website**
     
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Agentic Ai**
     
 - 💬 Ask me about **Web Development**
     
