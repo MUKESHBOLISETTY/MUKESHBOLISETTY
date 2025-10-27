@@ -1,8 +1,5 @@
-[![MasterHead](https://media.discordapp.net/attachments/798829111086678056/1149484421926371418/ezgif.com-resize_1.gif?width=1173&height=703)](https://github.com/MUKESHBOLISETTY)
 <h1 align="center">Hi 👋, I'm Mukesh Bolisetty</h1>
 <h3 align="center">A passionate FullStack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/798829111086678056/1149476108740329472/coding-gif2.gif?width=1020&height=642">
-    
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUKESHBOLISETTY&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbolisetty" /> </p>
     
