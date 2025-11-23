@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MUKESHBOLISETTY&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbolisetty" /> </p>
     
     
-- 🔭 I’m currently working on **Private University Website**
+- 🔭 I’m currently working on **Parul University Website (Insight)**
     
 - 🌱 I’m currently learning **Agentic Ai**
     
