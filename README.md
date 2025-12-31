@@ -21,6 +21,5 @@
 </p>
     
        
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MUKESHBOLISETTY&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mukeshbolisetty" /></p>
         
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MUKESHBOLISETTY&&theme=tokyonight" alt="mukeshbolisetty" /></p>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=MUKESHBOLISETTY" alt="Streak" /></a>
